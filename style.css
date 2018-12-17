@@ -195,10 +195,9 @@ li a:hover {
     position: absolute;
     top: 12%;
     left: 25%;
-/*
+.object_moon:hover {
     transform: rotate(0deg);
     transition: transform ease-in 99999999999s;
-*/
 }
 
 .earth-moon{
